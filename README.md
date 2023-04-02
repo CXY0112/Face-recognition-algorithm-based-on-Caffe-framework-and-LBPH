@@ -1,5 +1,5 @@
 # Face-recognition-algorithm-based-on-Caffe-framework-and-LBPH
-人脸识别算法应用说明
+	人脸识别算法应用说明
 本算法应用是基于 Caffe 框架和 LBPH 算法实现的人脸识别应用。在此应用中，我们使用了
 基于 Caffe 框架训练的深度学习模型进行人脸检测，接着使用 LBPH 算法对检测出的人脸进
 行识别，并使用 k 近邻分类器作为分类模型。 功能描述
